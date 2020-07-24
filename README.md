@@ -1,6 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Growrr
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: [email](mailto:joelvincent.work@gmail.com)
-- ⚡ Fun fact: I started using Github last 2018.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jabo-bernardo)](https://github.com/anuraghazra/github-readme-stats)
