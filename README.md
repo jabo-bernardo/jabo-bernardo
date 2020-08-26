@@ -6,7 +6,7 @@ My name is Jabo, I'm a full stack web developer focusing on the back-end.
 ### About Me
 - 📚 Self-taught
 - 🏗 I love working on backend
-- 📦 70% of my repositories is private 😂
+- 📦 70% of my repositories are private 😂
 
 ### My Web Dev Tech Stack
 - MongoDB
