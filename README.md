@@ -8,7 +8,7 @@ My name is Jabo, I'm a full stack web developer focusing on the back-end.
 - 🏗 I love working on backend
 - 📦 70% of my repositories is private 😂
 
-### My Tech Stack
+### My Web Dev Tech Stack
 - MongoDB
 - Express
 - ReactJS
@@ -20,10 +20,14 @@ My name is Jabo, I'm a full stack web developer focusing on the back-end.
 - Git
 - Github
 - NPM
-- Visual Studio Code, Sublime Text, and Atom
+- Visual Studio Code, Visual Studio, Sublime Text, and Atom
 - Photoshop, Figma, and Adobe XD
+- Aseprite
 
 ### Others
+- Java
+- Eclipse
+- Android Studio
 
 
 ### Projects
