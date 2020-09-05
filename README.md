@@ -57,10 +57,3 @@ My name is Jabo, I'm a full stack web developer focusing on the back-end.
 [<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://joelvincent.work@gmail.com)
 [<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/codejabo)
 [<img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!'>](https://www.linkedin.com/in/codejabo)
-
-<hr>
-
-### Projects I contributed on...
-[![jabo-bernardo/kree-java - GitHub](https://gh-card.dev/repos/jabo-bernardo/kree-java.svg)](https://github.com/jabo-bernardo/kree-java)
-[![calixo888/anojs - GitHub](https://gh-card.dev/repos/calixo888/anojs.svg)](https://github.com/calixo888/anojs)
-- and much more prototypes...
