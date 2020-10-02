@@ -1,7 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jabo-bernardo&show_icons=true&theme=radical)](https://github.com/jabo-bernardo/)
-
-<b>Hello 👋!</b><br><br>
-My name is Jabo, I'm a full stack web developer focusing on the back-end.
+[![](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello,%20I%27m%20Jabo&width=800&height=400)](https://github.com/jabo-bernardo/)
 
 ### About Me
 - 📚 Self-taught
