@@ -7,7 +7,7 @@
 ```csharp
 jabo-bernardo@github
 -------------------------
-OS: Windows
+OS: Windows, Ubuntu
 Pronouns: He/Him
 Location: Bulacan, PH
 Frameworks: React, NextJS, Express, NestJS
