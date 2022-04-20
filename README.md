@@ -25,6 +25,6 @@ Hey, I am a Full-Stack Web Developer based on the Philippines with over 4 years 
 ### 📮 Reach out to me
 Twitter: [@jabo_bernardo](https://twitter.com/jabo_bernardo) <br />
 Email: [hire@jabo.link](mailto:hire@jabo.link) / [joelvincent.work@gmail.com](mailto:joelvincent.work@gmail.com) <br />
-LinkedIn: [@jabo-bernardo](mailto:https://www.linkedin.com/in/jabo-bernardo/) <br />
+LinkedIn: [@jabo-bernardo](https://www.linkedin.com/in/jabo-bernardo/) <br />
 Discord: Jabo#7775 <br />
 Website: [jabo.link](https://jabo.link)
