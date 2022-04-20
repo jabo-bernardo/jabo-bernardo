@@ -6,7 +6,7 @@ Hey, I am a Full-Stack Web Developer based on the Philippines with over 4 years 
 
 ### 🔦 Highlights
 - Conceptualized & built a website similar to Fiverr from front-end to back-end with over 1000 registered users and 500K+ requests a month
-- Developed a game engine ([Kree Java](https://jabo-bernardo/Kree-Java)) from scratch written in Java that was featured in various blog websites
+- Developed a game engine ([Kree Java](https://github.com/jabo-bernardo/Kree-Java)) from scratch written in Java that was featured in various blog websites
 - Contributed to various open source projects here in Github 
 
 ### 🗣 Languages I speak
