@@ -1,30 +1,29 @@
-```zsh
-> !!! This account is under renovation !!!
-```
+<img src="./assets/gh-banner.png"/>
 
-```zsh
-> whoami
-```
+### 👋 Introduction
 
-<img align="left" src="https://avatars.githubusercontent.com/u/44330015" alt="Jabo Github Avatar" width="320" /> 
+Hey, I am a Full-Stack Web Developer based on the Philippines with over 4 years of experience in programming. Web development experience including TypeScript, JavaScript, Node.js, React.js, MongoDB, Postgres, Amazon Web Services, and Microsoft Azure.
 
-```csharp
-jabo-bernardo@github
--------------------------
-OS: Windows, Ubuntu
-Pronouns: He/Him
-Location: Bulacan, PH
-Frameworks: React, NextJS, Express, NestJS
-Languages: JavaScript, TypeScript, HTML, 
-          CSS, Java
-Learning: C++, C
-Hobbies: Swimming, Drawing, Learning,
-         Programming
-Discord: Jabo#7775
-LinkedIn: @jabo-bernardo
-Email: joelvincent.work@gmail.com
-```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#5A4C43" src="https://via.placeholder.com/15/5A4C43/000000?text=+" width="25" height="20" /><img alt="#DCA992" src="https://via.placeholder.com/15/DCA992/000000?text=+" width="25" height="20" /><img alt="#3680AF" src="https://via.placeholder.com/15/3680AF/000000?text=+" width="25" height="20" /><img alt="#ACB8B9" src="https://via.placeholder.com/15/ACB8B9/000000?text=+" width="25" height="20" />
-</p>
+### 🔦 Highlights
+- Conceptualized & built a website similar to Fiverr from front-end to back-end with over 1000 registered users and 500K+ requests a month
+- Developed a game engine ([Kree Java](https://jabo-bernardo/Kree-Java)) from scratch written in Java that was featured in various blog websites
+- Contributed to various open source projects here in Github 
+
+### 🗣 Languages I speak
+- Java    
+- C#
+- JavaScript
+- Python
+- TypeScript
+- C++/C
+
+### ⚙ Technologies I use
+- Front-end development: React, Next.js, Vue.js, Svelte
+- Back-end development: Express, Nest.js, Java Springboot
+
+### 📮 Reach out to me
+Twitter: [@jabo_bernardo](https://twitter.com/jabo_bernardo) <br />
+Email: [hire@jabo.link](mailto:hire@jabo.link) / [joelvincent.work@gmail.com](mailto:joelvincent.work@gmail.com) <br />
+LinkedIn: [@jabo-bernardo](mailto:https://www.linkedin.com/in/jabo-bernardo/) <br />
+Discord: Jabo#7775 <br />
+Website: [jabo.link](https://jabo.link)
