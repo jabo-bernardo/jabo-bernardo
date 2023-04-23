@@ -6,7 +6,7 @@ Hey, I am a Full-Stack Web Developer based on the Philippines with over 4 years 
 
 [![Visits](https://komarev.com/ghpvc/?username=jabo-bernardo&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/jabo-bernardo)
 [![Linkedin](https://img.shields.io/badge/Let%27s%20Connect%21-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jabo-bernardo)
-[![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:joelvincent.work@gmail.com)
+[![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithjabo@gmail.com)
 
 ### 🔦 Highlights
 - Conceptualized & built a website similar to Fiverr from front-end to back-end with over 1000 registered users and 500K+ requests a month
@@ -28,6 +28,6 @@ Hey, I am a Full-Stack Web Developer based on the Philippines with over 4 years 
 
 ### 📮 Reach out to me
 Twitter: [@jabo_bernardo](https://twitter.com/jabo_bernardo) <br />
-Email: [hire@jabo.link](mailto:hire@jabo.link) / [joelvincent.work@gmail.com](mailto:joelvincent.work@gmail.com) <br />
+Email: [codewithjabo@gmail.com](mailto:codewithjabo@gmail.com) <br />
 LinkedIn: [@jabo-bernardo](https://www.linkedin.com/in/jabo-bernardo/) <br />
 Discord: Jabo#7775 <br />
