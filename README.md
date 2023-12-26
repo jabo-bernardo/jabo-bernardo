@@ -1,4 +1,4 @@
-<img src="./assets/gh-banner.png"/>
+<img src="https://hellojabo.com/images/Banner.png"/>
 
 ### 👋 Introduction
 
@@ -27,7 +27,7 @@ Hey, I am a Full-Stack Web Developer based on the Philippines with over 4 years 
 - Back-end development: Express, Nest.js, Java Springboot
 
 ### 📮 Reach out to me
-Twitter: [@jabo_bernardo](https://twitter.com/jabo_bernardo) <br />
-Email: [codewithjabo@gmail.com](mailto:codewithjabo@gmail.com) <br />
+Twitter: [@hellojabo](https://twitter.com/hellojabo) <br />
+Email: [contact@hellojabo.com](mailto:contact@hellojabo.com) <br />
 LinkedIn: [@jabo-bernardo](https://www.linkedin.com/in/jabo-bernardo/) <br />
 Discord: Jabo#7775 <br />
